@@ -7,6 +7,7 @@
 		📒 <b>Devlog:</b> http://jinjoo.me<br />
   	📬 <b>Email:</b> <a href="mailto:hello@jinjoo.me">hello@jinjoo.me</a><br />
 	</div>
+  <br />
   <h3>Tech Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
@@ -20,7 +21,6 @@
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
 	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
-  <br />
   <br />
 	<img align="right" src="http://mazandi.herokuapp.com/api?handle=jinjoopark&theme=cold"/>
 </div>
