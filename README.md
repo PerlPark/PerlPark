@@ -1,12 +1,9 @@
 <div align="right">
-  <div><br/><img align="right" src="http://mazandi.herokuapp.com/api?handle=jinjoopark&theme=cold"/>
+  <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perlpark&layout=compact"/>
     
   </div>
   
-  <div>
-    
-  </div>
 </div>
 
 <div align="left">
@@ -29,3 +26,4 @@
 	<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
 </div>
+<img align="right" src="http://mazandi.herokuapp.com/api?handle=jinjoopark&theme=cold"/>
