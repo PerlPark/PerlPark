@@ -26,4 +26,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perlpark&layout=compact)
-<img src="http://mazandi.herokuapp.com/api?handle=jinjoopark&theme=cold"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinjoopark)](https://solved.ac/jinjoopark)
